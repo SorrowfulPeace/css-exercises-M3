@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.odd {
+    background-color: rgb(255, 170, 170);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.big {
+    font-size: 24px;
+}
+
+#eve {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#mark {
+    background-color: rgb(191, 255, 95);
+    font-size: 24px;
+    font-weight: bold;
+}
