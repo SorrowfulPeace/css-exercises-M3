@@ -1,1 +1,14 @@
-/* Add CSS Styling */
+.desire {
+    background-color: black;
+    color: white;
+}
+
+
+.insistence {
+    background-color: yellow;
+}
+.insistence, .desire {
+
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
